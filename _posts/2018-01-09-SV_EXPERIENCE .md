@@ -1,6 +1,6 @@
 ---
 layout: post
-title : SV_EXPERIENCE - San Francisco Walk
+title : San Francisco Walk
 ---
 
 - TEAM NAME : ALPHA TEAM 
