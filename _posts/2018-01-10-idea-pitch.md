@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDEA PITCH #02
+title: IDEA PITCH02
 ---
 
 - ALPHA TEAM
