@@ -3,8 +3,7 @@ layout: post
 title: IDEA PITCH02
 ---
 
-- ALPHA TEAM
-- LEADER : MINJUN KOO
+January 10th Wednesday
 
 ## contents
   - 회의를 했다. 

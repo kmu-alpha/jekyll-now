@@ -3,10 +3,9 @@ layout: post
 title : SV_EXPERIENCE - Intro to Terminal & Git
 ---
 
-- TEAM NAME : ALPHA TEAM 
-- LEADER : GAEUL GO
+January 9th Tuesday
 
-## The Second SV_EXPERIENCE
+## The Second SV_EXPERIENCE (January 9th Tuesday)
 - Title : _Work Like a Developer : Intro to Terminal & Git_
 - Date and Time : Tuesday, 09 Jan 2018, 18:30 am ~ 20:00 pm 
 - Place : the Rithm School

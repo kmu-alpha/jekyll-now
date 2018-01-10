@@ -3,10 +3,9 @@ layout: post
 title : SV_EXPERIENCE - San Francisco Walk
 ---
 
-- TEAM NAME : ALPHA TEAM 
-- LEADER : GAEUL GO
+January 6th Saturday
 
-## The First SV_EXPERIENCE
+## The First SV_EXPERIENCE  (January 6th Saturday)
 - Title : _Walking Tour of the Northeast San Francisco_
 - Date and Time : Saturday, 06 Jan 2018, 10:40 am ~ 15:00 pm 
 - Place : the Northest San Francisco
