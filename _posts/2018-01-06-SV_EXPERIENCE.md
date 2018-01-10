@@ -1,8 +1,7 @@
 ---
 layout: post
-title : MEET-UP : San Francisco Walk
+title : San Francisco Walk
 ---
-
 
 - TEAM NAME : ALPHA TEAM 
 - LEADER : GAEUL GO
