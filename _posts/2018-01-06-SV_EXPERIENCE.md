@@ -6,7 +6,7 @@ title : SV_EXPERIENCE - San Francisco Walk
 - TEAM NAME : ALPHA TEAM 
 - LEADER : GAEUL GO
 
-## The Fist SV_EXPERIENCE
+## The First SV_EXPERIENCE
 - Title : _Walking Tour of the Northeast San Francisco_
 - Date and Time : Saturday, 06 Jan 2018, 10:40 am ~ 15:00 pm 
 - Place : the Northest San Francisco
@@ -47,3 +47,9 @@ title : SV_EXPERIENCE - San Francisco Walk
 ### Route 5. Chinatown 
 ![Alt text](../images/SV_experience/180106/08_chinatown.jpg "photos of China Town")
 * After stopping at Saints Peter and Paul Church, we finally headed for chinatown. We went to Chinatown, the second largest city in the world after New York, and we really felt like we were traveling in China. We also felt we did not need to go to China. 
+
+### Talk our Feelings
+- Gaeul Go : I was really happy to walk while watching the sky when the weather was good. I thought I was short of walking in the weekdays, but I was feel good to walk about 20000 steps a day.
+- Minjun Koo : I was really happy to be traveling on my project in San Francisco. Sometimes I want to participate in a meat that I can feel this culture often.
+- Gihyeon Yang : I felt I needed a change of pace, so I traveled to San Francisco. We traveled differently than we originally planned. However, It seems to have been a better trip. I think it would be nice to have a lot of time like this in the future.
+- Hwancheol Kang : It was my first trip to the United States where I had left my fear of being in a strange place and my thoughts about work. The weather was so good that I was happy.
