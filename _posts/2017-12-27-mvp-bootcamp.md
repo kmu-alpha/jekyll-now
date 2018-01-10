@@ -3,7 +3,7 @@ layout: post
 title: MVP BOOTCAMP
 ---
 
-LEADER : *Gihyeon Yang*
+LEADER : *GIHYEON YANG*
 
 ## CONTENTS
  - PM
