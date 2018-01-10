@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Mvp Bootcamp
+title: MVP BOOTCAMP
 ---
 
-- ALPHA TEAM
-- LEADER : *Gihyeon Yang*
+LEADER : *Gihyeon Yang*
 
 ## CONTENTS
  - PM
