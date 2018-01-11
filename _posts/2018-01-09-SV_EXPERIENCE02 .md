@@ -9,7 +9,7 @@ January 9th Tuesday
 - Title : _Work Like a Developer : Intro to Terminal & Git_
 - Date and Time : Tuesday, 09 Jan 2018, 18:30 am ~ 20:00 pm 
 - Place : the Rithm School ([rithmschool](http://www.rithmschool.com).)
-![Alt text](../images/SV_experience/180109/04_Rithmschool.jpeg "Koo took notes")
+![Alt text](../images/SV_experience/180109/04_RithmSchool.jpeg "Koo took notes")
 - Attendants : Alphateam(Gaeul Go, Minjun Koo, Hwancheol Kang, Giheyon Yang), Seungwoo Jeong, Hyeongguen Eom
 
 
@@ -30,7 +30,7 @@ January 9th Tuesday
 
 
 
-![Alt text](../images/SV_experience/180109/03_GroupPhoto.jepg "Group Photo")
+![Alt text](../images/SV_experience/180109/03_GroupPhoto.jpeg "Group Photo")
 [ What we felt ? ]
 
 * Gaeul Go : I thought it was hard to listen the lecture because I did project all day. Unlike what I expected, it seemed to be a great help because the lecturer taught the necessary concepts easily, quickly and deeply.
