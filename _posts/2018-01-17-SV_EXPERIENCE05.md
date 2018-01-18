@@ -45,6 +45,9 @@ January 17th Wednesday
 - The second step is 'Train Watson Conversation Service'. I signed in 'IBM Cloud' and I launched the 'watson conversation'.
 ![Alt text](../images/SV_experience/180117/makeAlphabot.png "make alphabot")
 - I entered the name and create chatbot. Continuously, I created the intent, entity, and dialog. It was hard to understand at first but it gets more interesting as time goes by. Finally, I made my first chatbot, 'Alphabot', and it took only 1 hour.
+![Alt text](../images/SV_experience/180117/alphabot.png "alphabot")
+- We made a chatbot called 'alpha_search'. It was easy to make it because the UI of IBM's conversation is made easy to follow. 
+
 
 ### Talk our Feelings
 ![Alt text](../images/SV_experience/180117/GroupPhoto.jpeg "GroupPhoto.jpeg")
