@@ -5,7 +5,7 @@ title : SV_EXPERIENCE - How to build a chatbot
 
 January 17th Wednesday
 
-## The FOURTH SV_EXPERIENCE (January 17th Wednesday)
+## The FIFTH SV_EXPERIENCE (January 17th Wednesday)
 - Title : _How to build a chatbot_
 - Date and Time : Wednesday, 17 Jan 2018, 18:00 am ~ 21:00 pm
 - Place : IBM
@@ -37,7 +37,7 @@ January 17th Wednesday
 * register for ibm cloud : ibm.biz/ibmcloudchatbot
 -> my gate way to fall along the lab
 * try our code pattern : ibm.biz/chatbot011718
--> the cloest lab experience the lab 
+-> the closest lab experience the lab 
 
 ![Alt text](../images/SV_experience/180117/makeAlphabot.png "printedMaterials.jpeg")
 - We got a paper written about 'Watson Conversation'. There are several steps to start Chatbot. 
