@@ -46,7 +46,7 @@ January 20th Saturday
 
 
 ### Talk our Feelings
-![Alt text](../images/SV_experience/180117/06.jpg "06")
+![Alt text](../images/SV_experience/180117/06.JPG "06")
 - Gaeul Go : It seemed like I did one of the bucketlists. It was the best experience in my life. I cannot forget the moment of riding bicycle on the Golden Gate Bridge.
 - Minjun Koo : After passing the Golden Gate and the Golden Gate Bridge, the nature and scenery I encountered gave me happiness and hope.
 
