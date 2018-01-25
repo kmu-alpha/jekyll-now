@@ -1,60 +1,54 @@
 ---
 layout: post
-title : SV_EXPERIENCE - How to build a chatbot
+title : SV_EXPERIENCE - Bicycle trip to Golden Gate Bridge
 ---
 
-January 17th Wednesday
+January 20th Saturday
 
-## The FIFTH SV_EXPERIENCE (January 17th Wednesday)
-- Title : _How to build a chatbot_
-- Date and Time : Wednesday, 17 Jan 2018, 18:00 am ~ 21:00 pm
-- Place : IBM
-- Attendants : Alphateam ( GaeulGo, Minjun Koo, Hwancheol Kang, Gihyeon Yang )
+## The SIXTH SV_EXPERIENCE (January 20th Saturday)
+- Title : _Bicycle trip to Golden Gate Bridge_
+- Date and Time : Saturday, 20 Jan 2018, 13:00 ~ 18:30
+- Place : Golden Gate Bridge
+- Attendants :  GaeulGo, Minjun Koo, Seungwoo Jung, Hyeongguen Um, Seunghwan Hong, Minjun Cha, Changheon Song
 
+## Our route 
+![Alt text](../images/SV_experience/180120/route.PNG "route")
+- We started at 'Fisherman's Wharf' and arrived at Sausalito.
+- It took about 3 hours by bicycle because we took a rest a lot.
 
-## Contents
+## 1. Lent Bicycle
+![Alt text](../images/SV_experience/180120/01.PNG "01")
+- It was a nice weather to ride a bike. So we decided to go Golden Gate Bridge by riding bicycle.
+- We looked forward to ride a bike since we came here, so we were excited.
 
-* Agenda
-1. Open Discussion
-2. Why Chatbots
-3. Cuts of a chatbot
-4. Hands-On
-5. Follow Up : Topics / Homework
+## 2. Going to the Golden Gate Bridge.
+![Alt text](../images/SV_experience/180120/02.PNG "02")
+- We had to stop continuously. It was because the sky was so beautiful, the air was so clean, and we had to take pictures in the beautiful scenery that opened in front of my eyes.
 
+## 3. Close to the Golden Gate Bridge.
+![Alt text](../images/SV_experience/180120/03.PNG "03")
+- As we approached the Golden Gate Bridge, it was strange that the Golden Gate Bridge was in front of me. It's always a long distance. We thought 'that's the Golden Gate Bridge.' Now it was just before the Golden Gate Bridge.
 
-## 2. Why Chatbots?
-- It's because automatic solutions are simply more scalable. Besides, its cheaper, more efficient, and often more accrurate than a human. 
+## 4. On the Golden Gate Bridge
+![Alt text](../images/SV_experience/180120/03(2).PNG "03(2)")
+- It was windy but not cold at all. We were just happy that we were riding bicycle on the Golden Gate Bridge. 
 
-## 3. Cuts of a chabot
-- Intents / Entites / Dialog
-- It's good to be mind these 3 things. 
-- Intents : An intent is the goal or purpost of the user's input
-- Entities : An entity is a portion of the user's input that you can use to provide a dfferent response to a particular intent.
-- Dialog
+## 5. Arrived at sausalito
+![Alt text](../images/SV_experience/180120/04.PNG "04")
+- We felt like we are in Europe because the village looks charming. We ate dinner and icecream here.
+- We have no time to enjoy the composure because we have to return our bicycle by 6:30.
 
-## 4. Hands-On
-
-* register for ibm cloud : ibm.biz/ibmcloudchatbot
--> my gate way to fall along the lab
-* try our code pattern : ibm.biz/chatbot011718
--> the closest lab experience the lab 
-
-![Alt text](../images/SV_experience/180117/makeAlphabot.png "printedMaterials.jpeg")
-- We got a paper written about 'Watson Conversation'. There are several steps to start Chatbot. 
-- The first step is 'Desigining your bot'. We have to name the chatbot and what they do. I wanted to apply our project, so I chose 'alphabot' as the chatbot name. And its role is 'to find the local cafe'.
-- The second step is 'Train Watson Conversation Service'. I signed in 'IBM Cloud' and I launched the 'watson conversation'.
-![Alt text](../images/SV_experience/180117/makeAlphabot.png "make alphabot")
-- I entered the name and create chatbot. Continuously, I created the intent, entity, and dialog. It was hard to understand at first but it gets more interesting as time goes by. Finally, I made my first chatbot, 'Alphabot', and it took only 1 hour.
-![Alt text](../images/SV_experience/180117/alphabot.png "alphabot")
-- We made a chatbot called 'alpha_search'. It was easy to make it because the UI of IBM's conversation is made easy to follow. 
+## 6. Riding Ferry
+![Alt text](../images/SV_experience/180120/05.PNG "05")
+- We waited about 40 minutes and got off at Ferry 1. Originally we had to go 'Fisherman's Warf' but we had no time to wait it because we had to return our bicycle.
+- We took ferry with our bicycle. 
+- After we got off at Ferry 1, we rode the bike quickly and could return at 6:30.
 
 
 ### Talk our Feelings
-![Alt text](../images/SV_experience/180117/GroupPhoto.jpeg "GroupPhoto.jpeg")
-- Gaeul Go : It was amazed that I can make a chatbot in 1 hour. The level and speed of the lecture was suitable for us. It was an excited experience.
-- Minjun Koo : I thought it would be a lot harder because the host is IBM, but I really appreciated it teaching in detail from the beginning. Gaeul leader who picks up the meet-up well is super cool.
-- Gihyeon Yang : I have heard a lot of information about the technology actually used in this MVP BOOTCAMP. Of course, we used a platform different from the chatbot platform we used, but the principles and concepts overlap easily.
-- Hwancheol Kang : It was uncomfortable because Wi-Fi was not available, but the staff worked well. I felt that the IBM's Watson platform was cleaner and more intuitive than the dialogflow in MVP. Both are the same chatbots, so their usage is similar. I had a lot of questions while dealing with chatbots, and I was able to solve some of them.
+![Alt text](../images/SV_experience/180117/06.PNG "06")
+- Gaeul Go : It seemed like I did one of the bucketlists. It was the best experience in my life. I cannot forget the moment of riding bicycle on the Golden Gate Bridge.
+- Minjun Koo : After passing the Golden Gate and the Golden Gate Bridge, the nature and scenery I encountered gave me happiness and hope.
 
 
 

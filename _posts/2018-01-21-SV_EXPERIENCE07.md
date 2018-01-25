@@ -24,7 +24,7 @@ January 21th Sunday
 - (I didn't edit this pictures intentionally.)
 ![Alt text](../images/SV_experience/180121/01.jpg "01")
 - After identifying id, we can get a handful of 'Dove' chocolate. It has 3 flavors and all of these are good.
-![Alt text](../images/SV_experience/180121/02.jpg "02")
+![Alt text](../images/SV_experience/180121/02.JPG "02")
 - We can do a game in the museum. 
 ![Alt text](../images/SV_experience/180121/03.jpg "03")
 - If we score more than 2 out of 5, we can get a 50 cents coupon. We can buy an icecream later using this coupon.
