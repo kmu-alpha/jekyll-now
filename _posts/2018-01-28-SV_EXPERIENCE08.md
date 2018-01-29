@@ -14,7 +14,7 @@ January 28th Sunday
 ## Contents
 
 ## 1. Where is the Treasure Island ?
-![Alt text](../images/SV_experience/180128/location.PNG "location")
+![Alt text](../images/SV_experience/180128/location_00.PNG "location")
 
 ## 2. What did you do in the Treasure Island ?
 ![Alt text](../images/SV_experience/180128/01.jpg "01")
