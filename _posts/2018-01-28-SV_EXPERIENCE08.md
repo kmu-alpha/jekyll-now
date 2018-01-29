@@ -15,6 +15,10 @@ January 28th Sunday
 ## 1. Where is the Treasure Island ?
 ![Alt text](../images/SV_experience/180128/location.PNG "location")
 
+## 2. What did you do in the Treasure Island ?
+![Alt text](../images/SV_experience/180128/01.jpg "01")
+
+
 ## 4. Talk our feelings.
 - Gaeul Go : 
 
