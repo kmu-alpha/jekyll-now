@@ -24,7 +24,7 @@ January 28th Sunday
 ![Alt text](../images/SV_experience/180128/02.jpg "02")
 - (I've saying in every posting but I'm going to use today's posting again) The sky was so beautiful. The gradation from sky blue to white was very good. 
 
-![Alt text](../images/SV_experience/180128/website.PNG "website")
+![Alt text](../images/SV_experience/180128/website.png "website")
 - We are here to see the flea market. As you can see the above picture, it opens in the 4th week every month. We only stay 7 weeks in SF, so it was the last chance to experience the flea market.
 - It opens 10am to 4pm. 
 
