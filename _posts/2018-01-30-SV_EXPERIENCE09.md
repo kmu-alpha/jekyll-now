@@ -37,7 +37,7 @@ January 30th Tuesday
 - Then David told us, "You are free to do things, but you should not lose responsibility for your work."
 - Most US start-up company culture is mostly free but it is common to have responsibilty. 
 - Also David told us, "There are a lot of great people on google, and I learn a lot when I work with them. And I become enthusiastic not to be harmed by others."
-- Without this, David said nice things to us. We really apprecited to David having this opportunity including google tour and saying nice things.
+- Without this, David said nice things to us. We really appreciated to David having this opportunity including google tour and saying nice things.
 
 ## 4. Talk our feelings.
 ![Alt text](../images/SV_experience/180128/06.jpg "05")
