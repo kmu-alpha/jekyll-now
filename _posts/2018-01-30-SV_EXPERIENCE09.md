@@ -42,7 +42,7 @@ January 30th Tuesday
 ## 4. Talk our feelings.
 ![Alt text](../images/SV_experience/180130/05.jpg "05")
 - Gaeul Go : When I was 2nd year of high school, worker who works in Google had a lecture. His lecture was about his overall life and the procedure of google interview. I thought he was really nice because he entered the global company. At that time, I felt like Google was at a great distance. However, Google is one of my goal and I really want this dream comes true. 
-- Hwancheol Kang : I really want to go Google.
-- Kihyeon Yang 
+- Hwancheol Kang : I really want to go Google. I was wondering how Google is maintaing.
+- Kihyeon Yang : I see the welfare of US' big company.
 
 
